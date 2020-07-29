@@ -5,14 +5,14 @@ This Javascript application is a random-words paragrapgh generator. The words ch
 <br/>
 This project is built with HTML5, CSS3 (with mobile view taken into consideration) and modern Javascript.
 <br/><br/>
-This app is an extended version of my another application (see the previous app from here: [Random Paragrapgh Generator](https://github.com/ahmed-alawi-ba/Random-Paragraph-Generator)). ** But in this app a new and important functionality was added, where the user can click in any word from the random generated words, and the word definitions will be displayed. **
+This app is an extended version of my another application (see the previous app from here: [Random Paragrapgh Generator](https://github.com/ahmed-alawi-ba/Random-Paragraph-Generator)). **But in this app a new and important functionality was added, where the user can click in any word from the random generated words, and the word definitions will be displayed.**
 <br/><br/>
 
 
 <br/>
 <br/>
 
-This project uses ** Wordnik API **, which is the world's biggest online English dictionary, by number of words.
+This project uses **Wordnik API**, which is the world's biggest online English dictionary, by number of words.
 <br/>
 You can go to [Wordnik Developer Website](https://developer.wordnik.com/) to request for an API key. Or if you can use mine if you like, but please consider giving them some support.
 <br/><br/>
@@ -25,4 +25,4 @@ Wordnik shows definitions from multiple sources, like: American Heritage, The Ce
 
 You can go to their website and check what other great services they provide: [Wordnik](https://www.wordnik.com/)
 
-You can run the app from here: [Random Paragrapgh Generator](https://ahmed-alawi-ba.github.io/Random-Paragraph-Generator/)
+You can run the app from here: [Random Paragrapgh Generator with Dictionary](https://ahmed-alawi-ba.github.io/Random-Paragraph-Generator-with-Dictionary/)
