@@ -12,9 +12,6 @@ This app is an extended version of my another application (see the previous app 
 **You can run the app from here: [Random Paragrapgh Generator with Dictionary](https://ahmed-alawi-ba.github.io/Random-Paragraph-Generator-with-Dictionary/)**
 
 
-<br/><br/>
-
-
 <br/>
 <br/>
 
