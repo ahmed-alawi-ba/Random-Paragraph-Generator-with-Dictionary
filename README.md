@@ -9,6 +9,12 @@ This app is an extended version of my another application (see the previous app 
 <br/><br/>
 
 
+**You can run the app from here: [Random Paragrapgh Generator with Dictionary](https://ahmed-alawi-ba.github.io/Random-Paragraph-Generator-with-Dictionary/)**
+
+
+<br/><br/>
+
+
 <br/>
 <br/>
 
@@ -25,4 +31,3 @@ Wordnik shows definitions from multiple sources, like: American Heritage, The Ce
 
 You can go to their website and check what other great services they provide: [Wordnik](https://www.wordnik.com/)
 
-You can run the app from here: [Random Paragrapgh Generator with Dictionary](https://ahmed-alawi-ba.github.io/Random-Paragraph-Generator-with-Dictionary/)
