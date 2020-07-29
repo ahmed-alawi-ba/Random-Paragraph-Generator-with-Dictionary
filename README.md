@@ -9,16 +9,16 @@ This app is an extended version of my another application (see the previous app 
 <br/><br/>
 
 
-**You can run the app from here: [Random Paragrapgh Generator with Dictionary](https://ahmed-alawi-ba.github.io/Random-Paragraph-Generator-with-Dictionary/)**
+**You can run this app from here: [Random Paragrapgh Generator with Dictionary](https://ahmed-alawi-ba.github.io/Random-Paragraph-Generator-with-Dictionary/)**
 
-
-<br/>
 <br/>
 
 This project uses **Wordnik API**, which is the world's biggest online English dictionary, by number of words.
 <br/>
 You can go to [Wordnik Developer Website](https://developer.wordnik.com/) to request for an API key. Or if you can use mine if you like, but please consider giving them some support.
 <br/><br/>
+
+-------------------
 
 ### Wordnik
 
