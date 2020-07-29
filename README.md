@@ -5,7 +5,7 @@ This Javascript application is a random-words paragrapgh generator. The words ch
 <br/>
 This project is built with HTML5, CSS3 (with mobile view taken into consideration) and modern Javascript.
 <br/><br/>
-This app is an extended version of my another application (see the previous app from here: [Random Paragrapgh Generator](https://github.com/ahmed-alawi-ba/Random-Paragraph-Generator)). **But in this app a new and important functionality was added, where the user can click in any word from the random generated words, and the word definitions will be displayed.**
+This app is an extended version of my another application (see the previous app from here: [Random Paragrapgh Generator](https://github.com/ahmed-alawi-ba/Random-Paragraph-Generator) ). **But in this app a new and important functionality was added, where the user can click in any word from the random generated words, and the word definitions will be displayed.**
 <br/><br/>
 
 
